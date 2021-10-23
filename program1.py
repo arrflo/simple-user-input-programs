@@ -1,7 +1,7 @@
 #variables
-namE = input()
-agE = input()
-addresS = input ()
+namE = input("Your name:")
+agE = input("Your age:")
+addresS = input ("Your address:")
 
 #program
 print("Hi, my name is" ,f"{namE}.")
