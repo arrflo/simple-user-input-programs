@@ -6,4 +6,4 @@ ttlOrange = orangeS * 25
 ttlPrice = ttlApple + ttlOrange
 
 #program
-print("The total amount is",f"{ttlPrice}.")
+print("The total amount is",f"{ttlPrice} pesos.")
