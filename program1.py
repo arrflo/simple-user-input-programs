@@ -4,8 +4,7 @@ age = input("Your age:")
 address = input ("Your address:")
 
 #program
-print("Hi, my name is" ,f"{name}.")
-print("I am" ,f"{age} years old and I live in",f"{address}.")
+print("Hi, my name is" ,f"{name}.", "I am" ,f"{age} years old and I live in",f"{address}.")
 
 #result should be
 #Hi, my name is _____.
