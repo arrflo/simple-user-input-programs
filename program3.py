@@ -6,4 +6,4 @@ ttlPayment = maxNumberApples * applePrice                   #total payment for a
 change =  money - ttlPayment                                #change
 
 #program
-print("You can buy", f"{maxNumberApples}" , "and your change is", f"{change:.2f} pesos")
+print("You can buy", f"{maxNumberApples}" , "and your change is", f"{change:.2f} pesos.")
